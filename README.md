@@ -23,9 +23,9 @@ O jogo "Pedra, Papel e Tesoura" é uma aplicação simples e divertida, onde o u
 - CSS
 - JavaScript
 
-## 🖼️ Imagem do Projeto
+ 🖼️ Imagem do Projeto
 
-![Imagem do projeto](./imagens/pedra-papel-tesoura.png)
+![Imagem do projeto](imagens-projeto-2)
 
 ## 🔗 Acesse o repositório
 
