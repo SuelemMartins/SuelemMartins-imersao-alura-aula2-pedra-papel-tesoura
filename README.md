@@ -25,7 +25,7 @@ O jogo "Pedra, Papel e Tesoura" é uma aplicação simples e divertida, onde o u
 
  🖼️ Imagem do Projeto
 
-![Imagem do projeto](imagens-projeto-2)
+![Imagem do projeto](imagens-projeto2.JPG)
 
 ## 🔗 Acesse o repositório
 
